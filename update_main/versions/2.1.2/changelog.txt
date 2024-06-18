@@ -1,0 +1,16 @@
+- New additions:
+	+ Some weapons from Minecraft Dungeons and others.
+	+ Sleeping bags and Hammocks: Function similar to bed but won't set your spawnpoint and can be use to advance to night time.
+	+ Bedspreads (for customization).
+	+ Enhanced Celestials. Moon will have special cycles in some nights:
+		Blood Moon will increase monsters spawn intensity and turn the sky red. You cannot sleep during this time.
+		Harvest Moon will cranks up both the crop growth rate and crop drop rate.
+		Blue Moon will give you luck effect.
+		There are also a chance of a "Super Moon" which increase the effect of said moon, regular Super Moon will increase slime spawns
+	+ Skill tree: You can earn skill points to increase your base stats. The current one is super basic and only increase by small amount.
+	+ Fishing now pull out an actual alive fish instead of item (will break auto fishing farm but tbh no one use it in the first place).
+
+- Re-adding seasons back.
+
+- Adjusting some QoL changes.
+
